@@ -1,4 +1,4 @@
-Bar code/QR code Scanner:
+**Bar code/QR code Scanner:**
 
 Features:
 
@@ -6,6 +6,11 @@ Features:
 2. Get any product information like manufacturing country, ingredients etc.
 3. Redirect directly to QR code website.
 4. Flash on/off
+
+![IMG_20231127_144604 (1)](https://github.com/Ajmal0197/ScannerAppReactNative/assets/13982255/76054f80-222b-42f5-9312-d1e29b42646d)
+
+https://github.com/Ajmal0197/ScannerAppReactNative/assets/13982255/f38452ca-2320-497d-af2d-528feb368045
+
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
